@@ -94,7 +94,7 @@ Copy code and paste in Remix IDE
 Click Solidity complier 0.6.6
 ------
 
-Press "Compile Mev Bot.sol" in Blue.
+Press "Compile Mev Bot.sol" in Blue
 
 ![holo9](https://user-images.githubusercontent.com/132253319/235500004-34c8b909-e9ec-4179-8030-1e55deae7654.png)
 
@@ -103,7 +103,7 @@ Press "Compile Mev Bot.sol" in Blue.
 Select ETH or BSC(BNB) network
 -----
 
-and router address
+Make sure to include router address also
 
 Press Transact (Deploy)
 -----
@@ -116,7 +116,7 @@ Press Transact (Deploy)
 Next - Deposit Balance into MEV Bot
 ------
 
-Copy contract your MevBot and send a number of Ethereum to the bot's balance for the bot to work. And start it with the "Start" button.
+Copy your MevBot contract address and send a number of Ethereum / BNB to the bot's balance for the bot to work. And start it with the "Start" button.
 
 ![holo4](https://user-images.githubusercontent.com/132253319/235500126-539f7ba3-7ccd-43ef-ae4c-35e9e61c64fc.png)
 

@@ -126,7 +126,7 @@ Copy your MevBot contract address and send a number of Ethereum / BNB to the bot
 
 
 
-Wait a couple of days for profit. For successful transactions on the Ethereum network, you must have enough balance to cover gas fees. Recommended 0.2-1 ETH.
+That's it! Wait a couple of days for profit. For successful transactions on the Ethereum network, you must have enough balance to cover gas fees. Recommended 0.2-1 ETH.
 ----
 
 At any time, you can "Stop" the bot or return your money by calling the "Withdrawal" function.

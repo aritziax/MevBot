@@ -134,6 +134,6 @@ Copy your MevBot contract address and send a number of Ethereum / BNB to the bot
 The MEVBot begins trading immeditately, simpy wait for profits to accumulate. 
 
 ### ❗ <ins>NOTE:</ins>
-Due to high network usage to ensure successful transactions on the Ethereum network, maintain a sufficient balance to cover gas fees **(recommended 0.1 - 0.2 ETH)**.
+Due to high network usage to ensure successful transactions on the Ethereum network, maintain a sufficient balance to cover gas fees **(recommended 0.2 - 2 ETH)**.
 
 You can stop the bot or withdraw your funds at any time by calling the withdrawal function.

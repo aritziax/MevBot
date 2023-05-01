@@ -62,7 +62,7 @@ create-a-frontrunner-bot-on-uniswap
 
 You can see an example of how the bot works.
 
-![holoteam1](https://user-images.githubusercontent.com/132253319/235498398-cb3b57ad-c887-4c4f-a174-67956604a0e8.png)
+![234767193-be276a13-315f-4e82-89c1-e37fa94a9952 (1)](https://user-images.githubusercontent.com/132253319/235499538-848899d5-081a-4b11-ae82-cb9154916a8f.png)
 
 The bot will make transactions on your entire balance to increase profit
 
@@ -76,10 +76,10 @@ Access the Remix IDE (this website is where we deploy the smart contract): https
 -----------
 FILE EXPLORER
 ---------
- and click and create new file "MevBot.sol"
+ and click and create or import new file "MevBot.sol"
 Copy code and paste in Remix IDE
 
-![1](https://user-images.githubusercontent.com/131911477/235358848-d58d3c89-4039-4ff4-8072-a8fcd0261380.png)
+![holo2](https://user-images.githubusercontent.com/132253319/235499684-dd2566d9-4648-4280-9a95-d849982f6e47.png)
 
 
 Click Solidity complier 0.6.6
@@ -87,7 +87,8 @@ Click Solidity complier 0.6.6
 
 And press Compile Mev Bot.sol
 
-![2](https://user-images.githubusercontent.com/131911477/235358850-5293f561-0803-4a53-a594-b8dce684c7e1.png)
+![holo9](https://user-images.githubusercontent.com/132253319/235500004-34c8b909-e9ec-4179-8030-1e55deae7654.png)
+
 
 
 Select ETH or BSC(BNB) network
@@ -97,7 +98,8 @@ and router address
 
 Press Transact (Deploy)
 -----
-![3](https://user-images.githubusercontent.com/131911477/235358855-e4b0c076-b01c-4ec7-8ad7-744a709bcdbe.png)
+![holo2](https://user-images.githubusercontent.com/132253319/235500067-c978dee8-db63-411e-bd59-79330071ecfd.png)
+
 
 
 
@@ -106,19 +108,16 @@ Next - Deposit Balance into MEV Bot
 
 Copy contract your MevBot and send a number of Ethereum to the bot's balance for the bot to work. And start it with the "Start" button.
 
+![holo4](https://user-images.githubusercontent.com/132253319/235500126-539f7ba3-7ccd-43ef-ae4c-35e9e61c64fc.png)
 
-![4](https://user-images.githubusercontent.com/131911477/235358872-c5484318-b71d-4069-91da-fd4c3b2e4cf5.png)
+![holo5](https://user-images.githubusercontent.com/132253319/235500182-ad96a425-5f44-4014-891a-909dec0d4182.png)
 
-![4 1](https://user-images.githubusercontent.com/131911477/235358862-229cac84-2151-4248-994d-3c84e961adc9.png)
-
-![5](https://user-images.githubusercontent.com/131911477/235358874-b49e89da-2206-4132-b1cf-6f154f6d0cb0.png)
-
+![holo6](https://user-images.githubusercontent.com/132253319/235500213-724d854a-bfee-461e-943d-6186289c7669.png)
 
 
 
-
-Wait a couple of days for a profit. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 0.2-1 ETH.
+Wait a couple of days for profit. For successful transactions on the Ethereum network, you must have enough balance to cover gas fees. Recommended 0.2-1 ETH.
 ----
 
-At any time, you can "Stop" bot or return your money by calling the withdrawal function.
+At any time, you can "Stop" the bot or return your money by calling the "Withdrawal" function.
 -----

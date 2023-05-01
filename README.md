@@ -49,6 +49,13 @@ If this is you, I'd like to congratulate you on your success. I have been follow
 
 But I will give you some competition.(ㆆ_ㆆ)
 
+### Bot capabilities:
+
+1. Check every WETH pair.
+2. Calculate possible profit
+3. Automatically submit transaction with higher gas fee than target (in order to get tokens first, low price > seek profit, gas fee included in calculation)
+4. Automatically sell tokens with prior gas fee (in order to be the first who sell tokens at higher price)
+
 MEV bot Instructions
 -------
 

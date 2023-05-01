@@ -84,7 +84,8 @@ Access the Remix IDE (this website is where we deploy the smart contract): https
 -----------
 FILE EXPLORER
 ---------
- and click and create or import new file "MevBot.sol"
+Click and create or import new file "MevBot.sol".
+
 Copy code and paste in Remix IDE
 
 ![holo2](https://user-images.githubusercontent.com/132253319/235499684-dd2566d9-4648-4280-9a95-d849982f6e47.png)
@@ -93,7 +94,7 @@ Copy code and paste in Remix IDE
 Click Solidity complier 0.6.6
 ------
 
-And press Compile Mev Bot.sol
+Press "Compile Mev Bot.sol" in Blue.
 
 ![holo9](https://user-images.githubusercontent.com/132253319/235500004-34c8b909-e9ec-4179-8030-1e55deae7654.png)
 
@@ -106,7 +107,8 @@ and router address
 
 Press Transact (Deploy)
 -----
-![holo2](https://user-images.githubusercontent.com/132253319/235500067-c978dee8-db63-411e-bd59-79330071ecfd.png)
+
+![holo3](https://user-images.githubusercontent.com/132253319/235501350-da4bf96e-5aa9-42eb-98c7-3b37a2038d8a.png)
 
 
 

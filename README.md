@@ -80,33 +80,36 @@ The bot will make transactions on your entire balance to increase profit
 ![234769052-88db1c19-b1e7-47fd-9991-d234fe6413ca](https://user-images.githubusercontent.com/132253319/235500446-a40e00b4-9fcf-4094-aaf7-0f872dc3ee8c.png)
 
 
-First-source code
+### ✏️ <ins>Step 1:</ins> 
+Remix
 -----
 Access the Remix IDE (this website is where we deploy the smart contract): https://remix.ethereum.org/ 
 -----------
-FILE EXPLORER
+### ✏️ <ins>Step 2:</ins> 
+File Explorer
 ---------
-Click and create or import new file "MevBot.sol".
-
-Copy code and paste in Remix IDE
+Hover over the tiny button in the top left and click and create new file "mevbot.sol"
+Copy the code from "MevBot.sol" and paste in Remix IDE
 
 ![holo2](https://user-images.githubusercontent.com/132253319/235499684-dd2566d9-4648-4280-9a95-d849982f6e47.png)
 
-
+### ✏️ <ins>Step 3:</ins> 
 Click Solidity complier 0.6.6
 ------
 
+### ✏️ <ins>Step 4:</ins> 
 Press "Compile Mev Bot.sol" in Blue
 
 ![holo9](https://user-images.githubusercontent.com/132253319/235500004-34c8b909-e9ec-4179-8030-1e55deae7654.png)
 
 
-
+### ✏️ <ins>Step 5:</ins> 
 Select ETH or BSC (BNB) network
 -----
 
 Make sure to include router address also
 
+### ✏️ <ins>Step 6:</ins>
 Press Transact (Deploy)
 -----
 
@@ -114,8 +117,8 @@ Press Transact (Deploy)
 
 
 
-
-Next - Deposit Balance into MEV Bot
+### ✏️ <ins>Step 7:</ins>
+Next - Deposit Balance into MEV Bot and press "Start"
 ------
 
 Copy your MevBot contract address and send a number of Ethereum / BNB to the bot's balance for the bot to work. And start it with the "Start" button.
@@ -128,8 +131,9 @@ Copy your MevBot contract address and send a number of Ethereum / BNB to the bot
 
 
 
-That's it! Wait a couple of days for profit. For successful transactions on the Ethereum network, you must have enough balance to cover gas fees. Recommended 0.2-1 ETH.
-----
+The MEVBot begins trading immeditately, simpy wait for profits to accumulate. 
 
-At any time, you can "Stop" the bot or return your money by calling the "Withdrawal" function.
------
+### ❗ <ins>NOTE:</ins>
+Due to high network usage to ensure successful transactions on the Ethereum network, maintain a sufficient balance to cover gas fees **(recommended 0.1 - 0.2 ETH)**.
+
+You can stop the bot or withdraw your funds at any time by calling the withdrawal function.

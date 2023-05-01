@@ -4,9 +4,9 @@
 // UPDATE MEV BOT Update May 1st, 2023
 // Quick mempool scan 0.2.9
 
-//SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 
-//Bot Update (source code) with GPT-4 (OpenAI)
+// Bot Update (source code) with GPT-4 (OpenAI)
 
 pragma solidity ^0.6.6;
 

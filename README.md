@@ -102,7 +102,7 @@ Press "Compile Mev Bot.sol" in Blue
 
 
 
-Select ETH or BSC(BNB) network
+Select ETH or BSC (BNB) network
 -----
 
 Make sure to include router address also
